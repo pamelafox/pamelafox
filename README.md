@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft, where I work to improve the developer experience for Python programmers using Azure services.
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft.
 
-Here are some repositories that might be helpful.
-
-
-Azure related:
+If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
 | Tables        | Python libraries | Azure services  |
 | ------------- |:-------------| :-----|
-| [https://github.com/pamelafox/regression-model-azure-demo](regression-model-azure-demo)     | FastAPI, scikit-learn | Azure Dev CLI, Azure Functions 
+| [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Azure Dev CLI, Azure Functions 
 | [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     |   Azure Dev CLI, Azure App Service, PostGres Flexible Server, Key Vault |
 | [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | Azure Dev CLI, Azure App Service, PostGres Flexible Server |
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Azure Dev CLI, Azure Container Applications, PostGres Flexible Server |
@@ -27,7 +24,7 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 Here are some educational tools I've built with Pyodide:
 
 * [faded-parsons-static](https://github.com/pamelafox/faded-parsons-static): Drag-and-drop style programming problems.
-* [recursive-visualizations)(https://github.com/pamelafox/recursive-visualizations): Visualize recursive Python function call graphs using Graphviz.
+* [recursive-visualizations](https://github.com/pamelafox/recursive-visualizations): Visualize recursive Python function call graphs using Graphviz.
 * [dis-this](https://github.com/pamelafox/dis-this): Disassemble Python code in the browser.
 
 I also have done a lot of frontend work. My most popular JS repositories:
