@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft.
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
@@ -19,15 +19,15 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 
 * [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, flake8, pre-commit, pytest, and Github actions.
 * [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): Just a 3.10 devcontainer
-* [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version!
+* [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version! 🎉
 
-Here are some educational tools I've built with Pyodide:
+Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
 
 * [faded-parsons-static](https://github.com/pamelafox/faded-parsons-static): Drag-and-drop style programming problems.
 * [recursive-visualizations](https://github.com/pamelafox/recursive-visualizations): Visualize recursive Python function call graphs using Graphviz.
 * [dis-this](https://github.com/pamelafox/dis-this): Disassemble Python code in the browser.
 
-I also have done a lot of frontend work. My most popular JS repositories:
+I've also done a lot of frontend work. My most popular frontend repositories:
 
 * [lscache](https://github.com/pamelafox/lscache): A library for localStorage with a memcache-inspired API.
 * [font-previewer-extension](https://github.com/pamelafox/font-previewer-extension): A Chrome extension to preview Google fonts.
