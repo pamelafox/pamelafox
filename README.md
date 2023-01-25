@@ -6,6 +6,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 
 | Tables        | Python libraries | Azure services  |
 | ------------- |:-------------| :-----|
+| [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, SQLAlchemy, psycopg2  | Azure Dev CLI, Azure Container Apps, Azure Container Registry, PostGres Flexible Server |
 | [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Azure Dev CLI, API Managament, Azure Functions
 | [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Azure Dev CLI, Azure Functions 
 | [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     |   Azure Dev CLI, Azure App Service, PostGres Flexible Server, Virtual Network |
