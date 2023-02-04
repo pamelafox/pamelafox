@@ -6,20 +6,21 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 
 | Tables        | Python libraries | Azure services  |
 | ------------- |:-------------| :-----|
-| [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, SQLAlchemy, psycopg2  | Azure Dev CLI, Azure Container Apps, Azure Container Registry, PostGres Flexible Server |
-| [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Azure Dev CLI, Azure Container Apps, Azure Container Registry |
-| [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Azure Dev CLI, API Managament, Azure Functions
-| [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Azure Dev CLI, Azure Functions 
-| [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     |   Azure Dev CLI, Azure App Service, PostGres Flexible Server, Virtual Network |
-| [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |   Azure Dev CLI, Azure App Service, PostGres Flexible Server, Virtual Network |
-| [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | Azure Dev CLI, Azure App Service, PostGres Flexible Server |
-| [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      |   Azure Dev CLI, Azure App Service, PostGres Flexible Server |
-| [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | Azure Dev CLI, Azure App Service |
-| [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Azure Dev CLI, Azure Functions |
-| [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Azure Dev CLI, Azure Functions, API Management |
-| [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Azure Dev CLI, Azure Container Applications, PostGres Flexible Server |
-| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, Azure App Service, Azure Cognitive Services (Translator) | 
-| [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask | Bicep, Azure Container Apps, Azure CDN | 
+| [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | | Azure Dev CLI, Container Apps,  Container Registry, CDN  |
+| [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Azure Dev CLI, Container Apps, Container Registry, PostGres Flexible Server |
+| [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Azure Dev CLI, Container Apps, Container Registry |
+| [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Azure Dev CLI, API Managament, Functions
+| [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Azure Dev CLI,  Functions 
+| [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     |   Azure Dev CLI, App Service, PostGres Flexible Server, Virtual Network |
+| [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |   Azure Dev CLI, App Service, PostGres Flexible Server, Virtual Network |
+| [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | Azure Dev CLI, App Service, PostGres Flexible Server |
+| [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      |   Azure Dev CLI, App Service, PostGres Flexible Server |
+| [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | Azure Dev CLI, App Service |
+| [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Azure Dev CLI, Functions |
+| [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Azure Dev CLI, Functions, API Management |
+| [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Azure Dev CLI, Container Applications, PostGres Flexible Server |
+| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator) | 
+| [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask | Bicep, Container Apps, CDN | 
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
