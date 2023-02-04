@@ -6,7 +6,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 
 | Tables        | Python libraries | Azure services  |
 | ------------- |:-------------| :-----|
-| [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | | Azure Dev CLI, Container Apps,  Container Registry, CDN  |
+| [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Azure Dev CLI, Container Apps,  Container Registry, CDN  |
 | [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Azure Dev CLI, Container Apps, Container Registry, PostGres Flexible Server |
 | [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Azure Dev CLI, Container Apps, Container Registry |
 | [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Azure Dev CLI, API Managament, Functions
