@@ -9,7 +9,8 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Container Apps, Container Registry, PostGres Flexible Server | ✅
 | [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Container Apps, Container Registry | ✅
-| [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | API Managament, Functions| ✅
+| [staticmaps-function](https://github.com/pamelafox/staticmaps-function) | Flask, py-staticmaps, OpenTelemetry | Functions, CDN  | ✅
+| [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Functions, API Managament | ✅
 | [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Functions | ✅
 | [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     | App Service, PostGres Flexible Server, Virtual Network | ✅
 | [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |  App Service, PostGres Flexible Server, Virtual Network | ✅
