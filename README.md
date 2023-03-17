@@ -14,6 +14,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [simple-flask-api-container](https://github.com/pamelafox/simple-flask-api-container) | Flask | Container Apps, Container Registry | ✅
 | [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Container Apps, Container Registry | ✅
 | [staticmaps-function](https://github.com/pamelafox/staticmaps-function) | FastAPI, py-staticmaps, OpenTelemetry | Functions, CDN  | ✅
+| [simple-fastapi-container](https://github.com/pamelafox/simple-fastapi-container) | FastAPI | Container Apps |  ✅
 | [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Functions, API Managament | ✅
 | [fastapi-on-azure-functions](https://github.com/pamelafox/fastapi-on-azure-functions) | FastAPI | Functions | ✅
 | [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Functions | ✅
