@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
-Upcoming conferences: [PythonWebConf](https://ti.to/six-feet-up/python-web-conf-2023) (Use code Pamela@PWC2023 for 15% off), [CitusCon](https://www.citusdata.com/cituscon/2023/)
+Upcoming conferences: [CitusCon](https://www.citusdata.com/cituscon/2023/), [VS Code Day](https://learn.microsoft.com/en-us/events/learn-events/vs-code-day-2023/), [PyDay](https://developer.microsoft.com/en-us/reactor/events/18966/)
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
