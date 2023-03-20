@@ -27,7 +27,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Functions, API Management | ✅
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅
 | [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator) | 
-| [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask | Bicep, Container Apps, CDN | 
+| [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
