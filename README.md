@@ -2,8 +2,6 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
-Upcoming conferences: [CitusCon](https://www.citusdata.com/cituscon/2023/), [VS Code Day](https://learn.microsoft.com/en-us/events/learn-events/vs-code-day-2023/), [PyDay](https://developer.microsoft.com/en-us/reactor/events/18966/)
-
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)
@@ -31,8 +29,9 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
-* [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions.
-* [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): Just a 3.10 devcontainer
+* [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions
+* [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Dev Container with PostgreSQL server, SQLAlchemy package, and SQLTools extension
+* [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): A simple 3.10 Dev Container
 * [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version! 🎉
 
 Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
