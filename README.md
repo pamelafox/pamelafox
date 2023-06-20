@@ -1,4 +1,4 @@
-### Hi there 👋 HAPPY PRIDE! 🏳️‍🌈 🏳️‍🌈 🏳️‍🌈 May everyone love freely.
+### Happy Pride! 🏳️‍🌈 🏳️‍🌈 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
