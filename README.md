@@ -6,6 +6,8 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)
 | ------------- |:-------------| :-----| :- |
+| [chatgpt-quickstart](https://github.com/Azure-Samples/chatgpt-quickstart) | OpenAI, Flask | Container Apps, Container Registry, CDN | ✅
+| [sample-app-aoai-chatgpt](https://github.com/microsoft/sample-app-aoai-chatGPT/blob/main/README_azd.md) | OpenAI, Flask | App Service, Cognitive Search, AAD | ✅
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Container Apps, Container Registry, PostGres Flexible Server | ✅
