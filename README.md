@@ -1,6 +1,6 @@
-### Happy Pride! 🏳️‍🌈 🏳️‍🌈 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
+### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [NorthBayPython](https://2023.northbaypython.org/), [PyGotham](https://2023.pygotham.tv/)
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
