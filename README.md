@@ -1,6 +1,6 @@
 ### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [PyGotham](https://2023.pygotham.tv/), [GitHub Universe](https://githubuniverse.com/)
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [FlaskCon 2023](https://flaskcon.com/2023/)
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
@@ -31,7 +31,8 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
 * [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions
-* [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Dev Container with PostgreSQL server, SQLAlchemy package, and SQLTools extension
+* [sqlalchemy-sqlite-playground](https://github.com/pamelafox/sqlalchemy-sqlite-playground): Dev Container with SQLAlchemy package, SQLTools extension
+* [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
 * [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): A simple 3.10 Dev Container
 * [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version! 🎉
 
