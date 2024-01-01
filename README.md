@@ -9,7 +9,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [chatgpt-quickstart](https://github.com/Azure-Samples/chatgpt-quickstart) | OpenAI, Flask | Container Apps, Container Registry, CDN | ✅
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
-| [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Container Apps, Container Registry, PostGres Flexible Server | ✅
+| [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Container Apps, Container Registry, PostGres Flexible Server, Key Vault | ✅
 | [simple-flask-api-container](https://github.com/pamelafox/simple-flask-api-container) | Flask | Container Apps, Container Registry | ✅
 | [simple-flask-server-container](https://github.com/pamelafox/simple-flask-server-container) | Flask | Container Apps, Container Registry | ✅
 | [staticmaps-function](https://github.com/pamelafox/staticmaps-function) | FastAPI, py-staticmaps, OpenTelemetry | Functions, CDN  | ✅
@@ -19,13 +19,13 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Functions | ✅
 | [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     | App Service, PostGres Flexible Server, Virtual Network | ✅
 | [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |  App Service, PostGres Flexible Server, Virtual Network | ✅
-| [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | App Service, PostGres Flexible Server | ✅
+| [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | App Service, PostGres Flexible Server, Key Vault | ✅
 | [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      | App Service, PostGres Flexible Server | ✅
 | [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | App Service | ✅
 | [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Functions | ✅
 | [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Functions, API Management | ✅
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅
-| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator) | 
+| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | 
 | [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
