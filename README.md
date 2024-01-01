@@ -17,8 +17,8 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [fastapi-azure-function-apim](https://github.com/pamelafox/fastapi-azure-function-apim) | FastAPI | Functions, API Managament | ✅
 | [fastapi-on-azure-functions](https://github.com/pamelafox/fastapi-on-azure-functions) | FastAPI | Functions | ✅
 | [regression-model-azure-demo](https://github.com/pamelafox/regression-model-azure-demo)     | FastAPI, scikit-learn | Functions | ✅
-| [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     | App Service, PostGres Flexible Server, Virtual Network | ✅
-| [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |  App Service, PostGres Flexible Server, Virtual Network | ✅
+| [msdocs-django-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-django-postgresql-sample-app-azd)     | Django, psycopg2, whitenoise     | App Service, PostGres Flexible Server, Virtual Network, Key Vault | ✅
+| [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |  App Service, PostGres Flexible Server, Virtual Network, Key Vault | ✅
 | [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | App Service, PostGres Flexible Server, Key Vault | ✅
 | [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      | App Service, PostGres Flexible Server | ✅
 | [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | App Service | ✅
