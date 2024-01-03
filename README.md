@@ -1,6 +1,6 @@
 ### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [FlaskCon 2023](https://flaskcon.com/2023/)
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [MS AI Tour: San Francisco](https://msevents.microsoft.com/event?id=2142590774).
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
@@ -25,7 +25,7 @@ If you're looking to get started with Python on Azure, here are my Azure-related
 | [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Functions | ✅
 | [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Functions, API Management | ✅
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅
-| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | 
+| [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | ✅
 | [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
