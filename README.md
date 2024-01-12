@@ -1,6 +1,6 @@
 ### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [MS AI Tour: San Francisco](https://msevents.microsoft.com/event?id=2142590774).
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [AI Chat App Hack](https://github.com/microsoft/AI-Chat-App-Hack), [SIGCSE 2024](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-supporter-sessions/13/Teaching-Modern-Web-Development-with-Python).
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
