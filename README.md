@@ -4,9 +4,9 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming ta
 
 If you're looking to get started with Python on Azure, here are my Azure-related repositories:
 
-| Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)
+| Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview)
 | ------------- |:-------------| :-----| :- |
-| [chatgpt-quickstart](https://github.com/Azure-Samples/chatgpt-quickstart) | OpenAI, Flask | Container Apps, Container Registry | ✅
+| [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Container Apps, Container Registry | ✅
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
