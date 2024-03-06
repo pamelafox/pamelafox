@@ -1,13 +1,15 @@
 ### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
 
-I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [AI Chat App Hack](https://github.com/microsoft/AI-Chat-App-Hack), [SIGCSE 2024](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-supporter-sessions/13/Teaching-Modern-Web-Development-with-Python).
+I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ Upcoming talks: [SIGCSE 2024](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-supporter-sessions/13/Teaching-Modern-Web-Development-with-Python).
 
-If you're looking to get started with Python on Azure, here are my Azure-related repositories:
+If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview)
 | ------------- |:-------------| :-----| :- |
+| [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | OpenAI, Quart | App Service, Azure AI Search | ✅
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Container Apps, Container Registry | ✅
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅
+| [langfuse-on-azure](https://github.com/Azure-Samples/langfuse-on-azure) | - | Container Apps, PostGres Flexible Server | ✅
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅
 | [flask-surveys-container-app](https://github.com/pamelafox/flask-surveys-container-app) | Flask, gunicorn, SQLAlchemy, psycopg2  | Container Apps, Container Registry, PostGres Flexible Server, Key Vault | ✅
@@ -34,6 +36,7 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 * [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions
 * [sqlalchemy-sqlite-playground](https://github.com/pamelafox/sqlalchemy-sqlite-playground): Dev Container with SQLAlchemy package, SQLTools extension
 * [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
+* [pgvector-playground](https://github.com/pamelafox/pgvector-playground): Dev Container with PostgreSQL, pgvector extension, and multiple pgvector Python examples
 * [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): A simple 3.10 Dev Container
 * [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version! 🎉
 
