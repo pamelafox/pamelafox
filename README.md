@@ -38,7 +38,8 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 * [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
 * [pgvector-playground](https://github.com/pamelafox/pgvector-playground): Dev Container with PostgreSQL, pgvector extension, and multiple pgvector Python examples
 * [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): A simple 3.10 Dev Container
-* [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11, the latest Python version! 🎉
+* [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11
+* [python-3.12-playground](https://github.com/pamelafox/python-3.12-playground): Ditto, for 3.12
 
 Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
 
