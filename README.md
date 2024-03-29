@@ -56,5 +56,4 @@ I've also done a lot of frontend work. My most popular frontend repositories:
 * [font-previewer-extension](https://github.com/pamelafox/font-previewer-extension): A Chrome extension to preview Google fonts.
 * [chrome-cards](https://github.com/pamelafox/chrome-cards): A series of Chrome extensions with flash cards, based on the Leitner system.
 * [parallel-demo](https://github.com/pamelafox/parallel-demo): A demonstration of parallel programming in the browser using web workers.
-* [youtube-feed-hider](https://github.com/pamelafox/youtube-feed-hider): A Chrome extension for hiding distracting parts of the Youtube UI.
 
