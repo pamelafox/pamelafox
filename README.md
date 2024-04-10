@@ -29,7 +29,6 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      | App Service, PostGres Flexible Server | ✅
 | [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | App Service | ✅
 | [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Functions | ✅
-| [icon-writer-function](https://github.com/pamelafox/icon-writer-function) | Pillow | Functions, API Management | ✅
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅
 | [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | ✅
 | [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅
