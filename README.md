@@ -28,7 +28,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [msdocs-flask-postgresql-sample-app-azd](https://github.com/pamelafox/msdocs-flask-postgresql-sample-app-azd)     | Flask, psycopg2, SQLAlchemy,Alembic     |  App Service, PostGres Flexible Server, Virtual Network, Key Vault | ✅ | -
 | [django-quiz-app](https://github.com/pamelafox/django-quiz-app) | Django, psycopg2, whitenoise | App Service, PostGres Flexible Server, Key Vault | ✅ | -
 | [flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example) | Flask, SQLAlchemy, psycopg2      | App Service, PostGres Flexible Server | ✅ | -
-| [simple-flask-server-example](https://github.com/pamelafox/simple-flask-server-example) | Flask | App Service | ✅ | -
+| [simple-flask-server-appservice](https://github.com/Azure-Samples/simple-flask-server-appservice) | Flask | App Service | ✅ | -
 | [simple-flask-api-azure-function](https://github.com/pamelafox/simple-flask-api-azure-function) | Flask | Functions | ✅ | -
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅ | -
 | [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | ✅ | -
