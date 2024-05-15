@@ -8,6 +8,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI | ✅ | ✅ 
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | OpenAI, Quart | App Service, Azure AI Search | ✅ | ✅ 
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
