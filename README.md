@@ -8,12 +8,13 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
-| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI | ✅ | ✅ 
+| [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI, PostgreSQL Flexible Server | ✅ | ✅ 
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | OpenAI, Quart | App Service, Azure AI Search | ✅ | ✅ 
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
 | [python-openai-demos](https://github.com/pamelafox/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | - | ✅ 
+| [azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) | pgvector | PostgreSQL Flexible Server | ✅ | -
 | [langfuse-on-azure](https://github.com/Azure-Samples/langfuse-on-azure) | - | Container Apps, PostGres Flexible Server | ✅ | ✅ 
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅ | - | 
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅ | -
