@@ -45,6 +45,7 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 * [python-3.10-playground](https://github.com/pamelafox/python-3.10-playground): A simple 3.10 Dev Container
 * [python-3.11-playground](https://github.com/pamelafox/python-3.11-playground): Ditto, for 3.11
 * [python-3.12-playground](https://github.com/pamelafox/python-3.12-playground): Ditto, for 3.12
+* [python-3.13-playground](https://github.com/pamelafox/python-3.13-playground): Ditto, for 3.13
 
 Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
 
