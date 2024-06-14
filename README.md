@@ -41,6 +41,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
 * [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions
+* [ollama-python-playground](https://github.com/pamelafox/ollama-python-playground): Support for Ollama and Python OpenAI SDK for running SLMs
 * [sqlalchemy-sqlite-playground](https://github.com/pamelafox/sqlalchemy-sqlite-playground): Dev Container with SQLAlchemy package, SQLTools extension
 * [postgresql-playground](https://github.com/pamelafox/postgresql-playground): Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
 * [pgvector-playground](https://github.com/pamelafox/pgvector-playground): Dev Container with PostgreSQL, pgvector extension, and multiple pgvector Python examples
