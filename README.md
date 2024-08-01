@@ -10,6 +10,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | ------------- |:-------------| :-----| :- | :- |
 | [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI, PostgreSQL Flexible Server | ✅ | ✅ 
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | OpenAI, Quart | App Service, Azure AI Search | ✅ | ✅ 
+| [openai-chat-vision-quickstart](https://github.com/Azure-Samples/openai-chat-vision-quickstart) | OpenAI, Quart | Azure OpenAI, Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Azure OpenAI, Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-app-entra-auth-local](https://github.com/Azure-Samples/openai-chat-app-entra-auth-local) | OpenAI, Quart, Quart-Session, MSAL | Azure OpenAI, Microsoft Entra, Azure Cache for Redis, Container Apps | ✅ | ✅ 
 | [openai-chat-app-entra-auth-builtin](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) | OpenAI, Quart | Azure OpenAI, Microsoft Entra, Container Apps | ✅ | ✅ 
