@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Intro to LLMs with Python](https://developer.microsoft.com/en-us/reactor/events/23293/)
+Upcoming talks: [Intro to LLMs with Python](https://aka.ms/LLMPy-8/7B)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
