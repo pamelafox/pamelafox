@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [RAGHack](https://github.com/microsoft/RAG_Hack), [PyBay](https://pybay.org/), [O'Reilly SuperStream](https://www.oreilly.com/live-events/software-development-superstream-generative-ai-to-improve-software-development/0642572001338/0642572001337/), [GitHub Universe](https://githubuniverse.com/)
+Upcoming talks: [Learn Live: Create a website using GitHub Copilot](https://www.linkedin.com/events/7246898483624861696/), [GitHub Universe](https://githubuniverse.com/)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
