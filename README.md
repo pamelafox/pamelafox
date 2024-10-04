@@ -18,6 +18,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [python-openai-demos](https://github.com/pamelafox/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
 | [azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) | pgvector | PostgreSQL Flexible Server | ✅ | -
+| [rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks) | openai | Azure AI Search | - | - |
 | [langfuse-on-azure](https://github.com/Azure-Samples/langfuse-on-azure) | - | Container Apps, PostGres Flexible Server | ✅ | ✅ 
 | [flask-charts-api-container-app](https://github.com/pamelafox/flask-charts-api-container-app) | Flask, APIFlask, gunicorn | Container Apps,  Container Registry, CDN  | ✅ | - | 
 | [flask-gallery-container-app](https://github.com/pamelafox/flask-gallery-container-app) | Flask, gunicorn | Container Apps,  Container Registry, CDN  | ✅ | -
