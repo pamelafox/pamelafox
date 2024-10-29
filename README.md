@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Learn Live: Create a website using GitHub Copilot](https://www.linkedin.com/events/7246898483624861696/), [GitHub Universe](https://githubuniverse.com/), [Live stream: Deploying AI apps](https://developer.microsoft.com/reactor/events/23814/)
+Upcoming talks:  [GitHub Universe](https://githubuniverse.com/), [Live stream: Deploying AI apps](https://developer.microsoft.com/reactor/events/23814/), [SF Python Pallets Sprint Night](https://www.meetup.com/sfpython/events/300337699/)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
