@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks:  [Live stream: Deploying AI apps](https://developer.microsoft.com/reactor/events/23814/), [SF Python Pallets Sprint Night](https://www.meetup.com/sfpython/events/300337699/)
+Upcoming talks:  [SF Python Pallets Sprint Night](https://www.meetup.com/sfpython/events/300337699/)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
@@ -14,6 +14,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Azure OpenAI, Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-app-entra-auth-local](https://github.com/Azure-Samples/openai-chat-app-entra-auth-local) | OpenAI, Quart, Quart-Session, MSAL | Azure OpenAI, Microsoft Entra, Azure Cache for Redis, Container Apps | ✅ | ✅ 
 | [openai-chat-app-entra-auth-builtin](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) | OpenAI, Quart | Azure OpenAI, Microsoft Entra, Container Apps | ✅ | ✅ 
+| [azure-openai-entity-extraction](https://github.com/Azure-Samples/azure-openai-entity-extraction) | OpenAI, BeautifulSoup, PyMuPDF | Azure OpenAI |  ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
 | [python-openai-demos](https://github.com/pamelafox/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
