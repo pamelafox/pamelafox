@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Entity extraction with Azure OpenAI](https://www.youtube.com/live/jjedmWkztNY), [Storing chat history in Azure Cosmos DB](https://www.youtube.com/live/Uv4FVdWseio?si=IHWBd0s2Wm96-WZR), [Python Day](https://www.youtube.com/watch?v=edYHzLRpRPs)
+Upcoming talks: [RAG Deep Dive series](https://aka.ms/RAGDD-f)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
