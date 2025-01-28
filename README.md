@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [RAG Deep Dive series](https://aka.ms/RAGDD-f)
+Upcoming talks: [RAG Deep Dive series](https://aka.ms/RAGDD-f), [GitHub Copilot Bootcamp](https://www.youtube.com/watch?v=kUP9g7b9ZHY&list=PLmsFUfdnGr3xcaGzEw2EfqL3k6G3Mpz8I&index=3)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I maintain:
 
