@@ -17,6 +17,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [openai-chat-app-quickstart](https://github.com/Azure-Samples/openai-chat-app-quickstart) | OpenAI, Quart | Azure OpenAI, Container Apps, Container Registry | ✅ | ✅ 
 | [openai-chat-app-entra-auth-local](https://github.com/Azure-Samples/openai-chat-app-entra-auth-local) | OpenAI, Quart, Quart-Session, MSAL | Azure OpenAI, Microsoft Entra, Azure Cache for Redis, Container Apps | ✅ | ✅ 
 | [openai-chat-app-entra-auth-builtin](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) | OpenAI, Quart | Azure OpenAI, Microsoft Entra, Container Apps | ✅ | ✅ 
+| [containerapps-builtinauth-bicep](https://github.com/Azure-Samples/containerapps-builtinauth-bicep) | Flask | Container Apps, Microsoft Entra | ✅ | -
 | [appservice-builtinauth-bicep](https://github.com/Azure-Samples/appservice-builtinauth-bicep) | Flask | App Service, Microsoft Entra | ✅ | -
 | [azure-openai-entity-extraction](https://github.com/Azure-Samples/azure-openai-entity-extraction) | OpenAI, BeautifulSoup, PyMuPDF | Azure OpenAI |  ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
