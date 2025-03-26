@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Python + AI Series](http://aka.ms/PythonAI/series), [Python + AI Office Hours](http://aka.ms/aipython/oh), [AI Agent Week](https://lu.ma/ai-agent-week-sf), [SF Python Meetup](https://www.meetup.com/sfpython/events/306691980/), [AI Agents Hackathon](https://aka.ms/agentshack), [Posette](https://posetteconf.com/2025/talks/building-modern-python-web-apps-with-postgresql/), [PyCon 2025](https://us.pycon.org/2025/schedule/presentation/140/)
+Upcoming talks: [Python + AI Series](http://aka.ms/PythonAI/series), [Python + AI Office Hours](http://aka.ms/aipython/oh), [AI Agent Week - SF](https://lu.ma/ai-agent-week-sf), [SF Python Meetup](https://www.meetup.com/sfpython/events/306691980/), [AI Agents Hackathon](https://aka.ms/agentshack), [Posette](https://posetteconf.com/2025/talks/building-modern-python-web-apps-with-postgresql/), [PyCon 2025 - Pittsburgh](https://us.pycon.org/2025/schedule/presentation/140/), [Microsoft Build - Seattle](https://build.microsoft.com/en-US/home)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I help maintain:
 
@@ -22,6 +22,8 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [azure-openai-entity-extraction](https://github.com/Azure-Samples/azure-openai-entity-extraction) | OpenAI, BeautifulSoup, PyMuPDF | Azure OpenAI |  ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
 | [python-openai-demos](https://github.com/pamelafox/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
+| [vector-embeddings-demos](https://github.com/pamelafox/vector-embeddings-demos) | OpenAI, hnswlib | Azure OpenAI | ✅ | ✅ 
+| [ai-quality-safety-demos](https://github.com/pamelafox/ai-quality-safety-demos) | OpenAI, Azure AI Evaluations | Azure OpenAI, Azure AI Project | ✅ | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
 | [azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) | pgvector | PostgreSQL Flexible Server | ✅ | -
 | [rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks) | openai | Azure AI Search | - | - |
