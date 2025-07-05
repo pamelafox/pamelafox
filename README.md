@@ -65,6 +65,7 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 
 Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
 
+* [python-code-element](https://github.com/pamelafox/python-code-element): A custom HTML element for editing Python code, used throughout [proficientpython.com](https://proficientpython.com/).
 * [faded-parsons-static](https://github.com/pamelafox/faded-parsons-static): Drag-and-drop style programming problems.
 * [recursive-visualizations](https://github.com/pamelafox/recursive-visualizations): Visualize recursive Python function call graphs using Graphviz.
 * [dis-this](https://github.com/pamelafox/dis-this): Disassemble Python code in the browser.
