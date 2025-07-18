@@ -8,6 +8,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) | PydanticAI, Playwright | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
 | [python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/) | Many! | Azure AI | ✅ | ✅ 
