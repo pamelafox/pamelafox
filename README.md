@@ -24,7 +24,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [appservice-builtinauth-bicep](https://github.com/Azure-Samples/appservice-builtinauth-bicep) | Flask | App Service, Microsoft Entra | ✅ | -
 | [azure-openai-entity-extraction](https://github.com/Azure-Samples/azure-openai-entity-extraction) | OpenAI, BeautifulSoup, PyMuPDF | Azure OpenAI |  ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
-| [python-openai-demos](https://github.com/pamelafox/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
+| [python-openai-demos](https://github.com/Azure-Samples/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
 | [vector-embeddings-demos](https://github.com/pamelafox/vector-embeddings-demos) | OpenAI, hnswlib | Azure OpenAI | ✅ | ✅ 
 | [ai-quality-safety-demos](https://github.com/pamelafox/ai-quality-safety-demos) | OpenAI, Azure AI Evaluations | Azure OpenAI, Azure AI Project | ✅ | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
