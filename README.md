@@ -8,6 +8,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [stale-issue-closer-agent](https://github.com/pamelafox/stale-issue-closer-agent) | Langgraph | OpenAI | ✅ | ✅ 
 | [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) | PydanticAI, Playwright | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
@@ -49,6 +50,11 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [babybuddy-azure](https://github.com/pamelafox/babybuddy-azure) | Django, psycopg2 | Container Applications, PostGres Flexible Server | ✅ | -
 | [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | ✅ | -
 | [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅ | -
+
+Here are MCP related samples:
+* [mcp-python-demo](https://github.com/pamelafox/mcp-python-demo): Minimal FastMCP local server over STDIO
+* [python-mcp-starlette-client-server](https://github.com/pamelafox/python-mcp-starlette-client-server): FastMCP server on Starlette over HTTP Streamable
+* [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
