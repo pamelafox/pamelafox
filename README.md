@@ -27,7 +27,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
 | [python-openai-demos](https://github.com/Azure-Samples/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
 | [vector-embeddings-demos](https://github.com/pamelafox/vector-embeddings-demos) | OpenAI, hnswlib | Azure OpenAI | ✅ | ✅ 
-| [ai-quality-safety-demos](https://github.com/pamelafox/ai-quality-safety-demos) | OpenAI, Azure AI Evaluations | Azure OpenAI, Azure AI Project | ✅ | ✅ 
+| [ai-quality-safety-demos](https://github.com/Azure-Samples/ai-quality-safety-demos) | OpenAI, Azure AI Evaluations | Azure OpenAI, Azure AI Project | ✅ | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
 | [azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) | pgvector | PostgreSQL Flexible Server | ✅ | -
 | [rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks) | openai | Azure AI Search | - | - |
