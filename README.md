@@ -8,7 +8,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
-| [stale-issue-closer-agent](https://github.com/pamelafox/stale-issue-closer-agent) | Langgraph | OpenAI | ✅ | ✅ 
+| [issue-triager-agent](https://github.com/pamelafox/issue-triager-agent) | Langgraph | OpenAI | ✅ | ✅ 
 | [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) | PydanticAI, Playwright | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
@@ -26,7 +26,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [azure-openai-entity-extraction](https://github.com/Azure-Samples/azure-openai-entity-extraction) | OpenAI, BeautifulSoup, PyMuPDF | Azure OpenAI |  ✅ | ✅ 
 | [openai-chat-backend-fastapi](https://github.com/Azure-Samples/openai-chat-backend-fastapi) | OpenAI, FastAPI | Container Apps, Container Registry | ✅ | ✅ 
 | [python-openai-demos](https://github.com/Azure-Samples/python-openai-demos) | OpenAI | Azure OpenAI | - | ✅ 
-| [vector-embeddings-demos](https://github.com/pamelafox/vector-embeddings-demos) | OpenAI, hnswlib | Azure OpenAI | ✅ | ✅ 
+| [vector-embeddings-demos](https://github.com/Azure-Samples/vector-embeddings-demos) | OpenAI, hnswlib | Azure OpenAI | ✅ | ✅ 
 | [ai-quality-safety-demos](https://github.com/Azure-Samples/ai-quality-safety-demos) | OpenAI, Azure AI Evaluations | Azure OpenAI, Azure AI Project | ✅ | ✅ 
 | [azure-openai-keyless](https://github.com/Azure-Samples/azure-openai-keyless) | OpenAI | Azure OpenAI | ✅ | ✅ 
 | [azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) | pgvector | PostgreSQL Flexible Server | ✅ | -
