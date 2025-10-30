@@ -13,6 +13,7 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
 | [python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/) | Many! | Azure AI | ✅ | ✅ 
+| [nim-on-azure-serverless-gpus-demos](https://github.com/Azure-Samples/nim-on-azure-serverless-gpus-demos) | Many! | Azure Container Apps Serverless GPUs | - | ✅ 
 | [deepseek-python](https://github.com/Azure-Samples/deepseek-python) | Azure AI, Quart | Container Apps, Azure AI | ✅ | ✅ 
 | [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python/) | OpenAI, FastAPI, pgvector | Container Apps, Azure OpenAI, PostgreSQL Flexible Server | ✅ | ✅ 
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | OpenAI, Quart | App Service, Azure AI Search | ✅ | ✅ 
