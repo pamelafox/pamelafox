@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Python + AI Office Hours](http://aka.ms/aipython/oh), [Microsoft Ignite](https://ignite.microsoft.com/en-US/home), [PyLadiesCon](https://2025.conference.pyladies.com/)
+Upcoming talks: [Python + AI Office Hours](http://aka.ms/aipython/oh), [Accelerating AI Models Performance](https://developer.microsoft.com/en-us/reactor/series/S-1590/), [Microsoft Ignite](https://ignite.microsoft.com/en-US/home), [PyLadiesCon](https://2025.conference.pyladies.com/)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I help maintain:
 
