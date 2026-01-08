@@ -2,7 +2,7 @@
 
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Python + AI Office Hours](http://aka.ms/aipython/oh), [Python + MCP](https://aka.ms/PythonMCP/series/w)
+Upcoming talks: [Python + AI Office Hours](http://aka.ms/aipython/oh)
 
 If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I help maintain:
 
