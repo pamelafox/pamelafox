@@ -1,10 +1,12 @@
-### 🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
-
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
-Upcoming talks: [Python + AI Office Hours](http://aka.ms/aipython/oh), [Python + Agents series](https://aka.ms/PythonAgents/series), [Py AI (SF)](https://pyai.events/)
+## Upcoming talks
 
-If you're looking to get started with Python or AI on Azure, here are Azure-related repositories that I help maintain:
+* [Python + AI Office Hours](http://aka.ms/aipython/oh)
+* [Python + Agents series](https://aka.ms/PythonAgents/series)
+* [Py AI (SF)](https://pyai.events/)
+
+## Azure-related samples
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
@@ -52,19 +54,22 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | [translation-telephone](https://github.com/pamelafox/translation-telephone) | Flask, SQLAlchemy, psycopg2 | Bicep, App Service,  Cognitive Services (Translator), Key Vault | ✅ | -
 | [pamelafox-site](https://github.com/pamelafox/pamelafox-site) | Flask, FrozenFlask | Static Web Apps | ✅ | -
 
-Here are MCP related samples:
-* [mcp-python-demo](https://github.com/pamelafox/mcp-python-demo): Minimal FastMCP local server over STDIO
-* [python-mcp-starlette-client-server](https://github.com/pamelafox/python-mcp-starlette-client-server): FastMCP server on Starlette over HTTP Streamable
+## MCP related samples
+
 * [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
 * [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
 
-Here are personal agentic helpers I've built using AI:
+
+## Personal agentic helpers
+
 * [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent): An agent to manage my LinkedIn account, using PydanticAI and Playwright
 * [github-repo-maintainer-agent](https://github.com/pamelafox/github-repo-maintainer-agent): An agent for managing updates to my GitHub repos
 * [office-hours-writeups](https://github.com/pamelafox/office-hours-writeups): Tools to turn office hours recordings into writeups
 * [presentation-writeups](https://github.com/pamelafox/presentation-writeups): Tools to turn presentations into writeups
 
-Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
+## Python templates with devcontainers
+
+These are designed for easy use with the VS Code Dev Containers extension or GitHub Codespaces:
 
 * [python-project-template](https://github.com/pamelafox/python-project-template): Support for black, isort, ruff, pre-commit, pytest, and Github actions
 * [ollama-python-playground](https://github.com/pamelafox/ollama-python-playground): Support for Ollama and Python OpenAI SDK for running SLMs
@@ -76,17 +81,19 @@ Here are some non-Azure Python templates that you can open in a devcontainer/Cod
 * [python-3.12-playground](https://github.com/pamelafox/python-3.12-playground): Ditto, for 3.12
 * [python-3.13-playground](https://github.com/pamelafox/python-3.13-playground): Ditto, for 3.13
 
-Here are some educational tools I've built with [Pyodide (in-browser Python)](https://pyodide.org/):
+## Educational tools build with [Pyodide (in-browser Python)](https://pyodide.org/):
 
 * [python-code-element](https://github.com/pamelafox/python-code-element): A custom HTML element for editing Python code, used throughout [proficientpython.com](https://proficientpython.com/).
 * [faded-parsons-static](https://github.com/pamelafox/faded-parsons-static): Drag-and-drop style programming problems.
 * [recursive-visualizations](https://github.com/pamelafox/recursive-visualizations): Visualize recursive Python function call graphs using Graphviz.
 * [dis-this](https://github.com/pamelafox/dis-this): Disassemble Python code in the browser.
 
-I've also done a lot of frontend work. My most popular frontend repositories:
+## Frontend packages
 
 * [lscache](https://github.com/pamelafox/lscache): A library for localStorage with a memcache-inspired API.
 * [ndjson-readablestream](https://github.com/pamelafox/ndjson-readablestream): A small JS package for reading a ReadableStream of NDJSON.
 * [font-previewer-extension](https://github.com/pamelafox/font-previewer-extension): A Chrome extension to preview Google fonts.
 * [chrome-cards](https://github.com/pamelafox/chrome-cards): A series of Chrome extensions with flash cards, based on the Leitner system.
 * [parallel-demo](https://github.com/pamelafox/parallel-demo): A demonstration of parallel programming in the browser using web workers.
+
+🏳️‍🌈 Happy Pride! 🏳️‍🌈 May everyone love freely. 👩🏽‍❤️‍💋‍👩🏼 👨🏼‍❤️‍👨🏿 👩🏻‍❤️‍👨🏼
