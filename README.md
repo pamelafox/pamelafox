@@ -9,7 +9,6 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
 | [issue-triager-agent](https://github.com/pamelafox/issue-triager-agent) | Langgraph | OpenAI | ✅ | ✅ 
-| [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) | PydanticAI, Playwright | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
 | [python-ai-agent-frameworks-demos](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos/) | Many! | Azure AI | ✅ | ✅ 
@@ -56,7 +55,14 @@ If you're looking to get started with Python or AI on Azure, here are Azure-rela
 Here are MCP related samples:
 * [mcp-python-demo](https://github.com/pamelafox/mcp-python-demo): Minimal FastMCP local server over STDIO
 * [python-mcp-starlette-client-server](https://github.com/pamelafox/python-mcp-starlette-client-server): FastMCP server on Starlette over HTTP Streamable
+* [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
 * [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
+
+Here are personal agentic helpers I've built using AI:
+* [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent): An agent to manage my LinkedIn account, using PydanticAI and Playwright
+* [github-repo-maintainer-agent](https://github.com/pamelafox/github-repo-maintainer-agent): An agent for managing updates to my GitHub repos
+* [office-hours-writeups](https://github.com/pamelafox/office-hours-writeups): Tools to turn office hours recordings into writeups
+* [presentation-writeups](https://github.com/pamelafox/presentation-writeups): Tools to turn presentations into writeups
 
 Here are some non-Azure Python templates that you can open in a devcontainer/Codespaces:
 
@@ -83,4 +89,3 @@ I've also done a lot of frontend work. My most popular frontend repositories:
 * [font-previewer-extension](https://github.com/pamelafox/font-previewer-extension): A Chrome extension to preview Google fonts.
 * [chrome-cards](https://github.com/pamelafox/chrome-cards): A series of Chrome extensions with flash cards, based on the Leitner system.
 * [parallel-demo](https://github.com/pamelafox/parallel-demo): A demonstration of parallel programming in the browser using web workers.
-
