@@ -86,6 +86,7 @@ Here are some educational tools I've built with [Pyodide (in-browser Python)](ht
 I've also done a lot of frontend work. My most popular frontend repositories:
 
 * [lscache](https://github.com/pamelafox/lscache): A library for localStorage with a memcache-inspired API.
+* [ndjson-readablestream](https://github.com/pamelafox/ndjson-readablestream): A small JS package for reading a ReadableStream of NDJSON.
 * [font-previewer-extension](https://github.com/pamelafox/font-previewer-extension): A Chrome extension to preview Google fonts.
 * [chrome-cards](https://github.com/pamelafox/chrome-cards): A series of Chrome extensions with flash cards, based on the Leitner system.
 * [parallel-demo](https://github.com/pamelafox/parallel-demo): A demonstration of parallel programming in the browser using web workers.
