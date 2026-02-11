@@ -2,7 +2,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 ## Upcoming talks
 
-* [Python + AI Office Hours](https://aka.ms/aipython/oh/links)
+* [Python + AI Office Hours](https://aka.ms/pythonai/oh/links)
 * [Python + Agents series](https://aka.ms/PythonAgents/series)
 * [Py AI (SF)](https://pyai.events/)
 
