@@ -12,6 +12,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [python-foundryagent-demos](https://github.com/pamelafox/python-foundryagent-demos/) | azure-ai-projects | Foundry Agents, AI Search | ✅ | ✅ 
 | [issue-triager-agent](https://github.com/pamelafox/issue-triager-agent) | Langgraph | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
 | [secure-ai-app-build-demo](https://github.com/microsoft/Build25-BRK234) | OpenAI | Azure OpenAI, Container Apps, Front Door, VNet | ✅ | ✅ 
@@ -59,6 +60,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 ## MCP related samples
 
 * [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
+* [py-ai-mcp-tool-schemas](https://github.com/pamelafox/py-ai-mcp-tool-schemas): FastMCP tool schemas: Evaluations of different schemas for different agents (PydanticAI, Copilot SDK)
 * [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
 
 
