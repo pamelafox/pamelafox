@@ -12,6 +12,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [python-agentframework-demos](https://github.com/Azure-Samples/python-agentframework-demos/) | agent-framework | Azure OpenAI | ✅ | ✅ 
 | [python-foundryagent-demos](https://github.com/pamelafox/python-foundryagent-demos/) | azure-ai-projects | Foundry Agents, AI Search | ✅ | ✅ 
 | [issue-triager-agent](https://github.com/pamelafox/issue-triager-agent) | Langgraph | OpenAI | ✅ | ✅ 
 | [postgresql-extension-playground](https://github.com/Azure-Samples/postgresql-extension-playground) | None | PostgreSQL Flexible Server | ✅ | ✅ 
