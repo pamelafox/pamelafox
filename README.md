@@ -7,6 +7,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 * [Azure Cosmos DB Conference (Virtual)](https://developer.azurecosmosdb.com/conf/)
 * [PyCon US](https://us.pycon.org/2026/)
 * [Posette (Virtual)](https://posetteconf.com/2026/)
+* [Microsoft Build (SF)](https://aka.ms/MS_Build_26_DAC26)
 
 ## Azure-related samples
 
