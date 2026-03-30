@@ -3,7 +3,6 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 ## Upcoming talks
 
 * [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links)
-* [MVP Summit](https://summit.microsoft.com/)
 * [Azure Cosmos DB Conference (Virtual)](https://developer.azurecosmosdb.com/conf/)
 * [PyCon US](https://us.pycon.org/2026/)
 * [Posette (Virtual)](https://posetteconf.com/2026/)
