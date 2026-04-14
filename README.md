@@ -6,6 +6,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 * [Azure Cosmos DB Conference (Virtual)](https://developer.azurecosmosdb.com/conf/)
 * [Host your agents on Azure (livestream series)](https://aka.ms/AgentsOnFoundry/series)
 * [AgentCon Sillicon Valley](https://globalai.community/chapters/san-francisco/events/agentcon-silicon-valley/)
+* [Code with Claude](https://claude.com/code-with-claude)
 * [PyCon US](https://us.pycon.org/2026/)
 * [Posette (Virtual)](https://posetteconf.com/2026/)
 * [Microsoft Build (SF)](https://aka.ms/MS_Build_26_DAC26)
