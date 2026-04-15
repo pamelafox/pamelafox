@@ -65,6 +65,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 * [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
 * [py-ai-mcp-tool-schemas](https://github.com/pamelafox/py-ai-mcp-tool-schemas): FastMCP tool schemas: Evaluations of different schemas for different agents (PydanticAI, Copilot SDK)
+* [azure-cosmosdb-identity-aware-mcp-server](https://github.com/pamelafox/azure-cosmosdb-identity-aware-mcp-server): FastMCP server with Entra ID for user login and Cosmos DB for user data storage
 * [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
 
 
