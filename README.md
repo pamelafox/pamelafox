@@ -15,12 +15,12 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 See [agentskills.io](https://agentskills.io/) if you're new to skills.
 
-| Skill | Description |
+| Skill | Dependencies |
 | --- | --- |
-| [Recap My Week](https://github.com/pamelafox/recap-my-week) | Summarizes the user's last week of work using GitHub activity, X/Twitter posts, and Microsoft 365 data, then turns the results into highlights, summaries, and stats. |
-| [Comedy Roast](https://github.com/pamelafox/comedy-roast-skill) | Generates a personalized roast based on the user's real weekly activity across GitHub, X/Twitter, and Microsoft 365, including work, code, and timeline jokes. |
-| [Presentation Skills](https://github.com/pamelafox/presentation-skills) | Provides a collection of agent skills for presentation workflows, including converting slides, extracting transcripts, reviewing presentations, outlining slide decks, and generating write-ups. |
-
+| [recap-my-week](https://github.com/pamelafox/recap-my-week) | GitHub MCP, X MCP, workIQ MCP |
+| [comedy-roast-skill](https://github.com/pamelafox/comedy-roast-skill) | GitHub MCP, X MCP, workIQ MCP |
+| [presentation-skills](https://github.com/pamelafox/presentation-skills) | yt-dlbp, ffmpeg, etc. |
+| [review-pr-comments](https://github.com/pamelafox/review-pr-comments) | GitHub API/MCP/gh |
 
 ## Azure-related samples
 
