@@ -76,6 +76,8 @@ See [agentskills.io](https://agentskills.io/) if you're new to skills.
 
 ## MCP related samples
 
+* [pycon2026-mcp-tutorial](https://github.com/pamelafox/pycon2026-mcp-tutorial): A tutorial for connecting agents to MCP servers, then building a FastMCP server with tools, elicitations, apps, and KeyCloak auth.
+* [mcp-for-postgres-db-demo](https://github.com/pamelafox/python-mcp-demos): FastMCP servers to query a PostgreSQL database, showing different approaches to protecting the database.
 * [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
 * [py-ai-mcp-tool-schemas](https://github.com/pamelafox/py-ai-mcp-tool-schemas): FastMCP tool schemas: Evaluations of different schemas for different agents (PydanticAI, Copilot SDK)
 * [azure-cosmosdb-identity-aware-mcp-server](https://github.com/pamelafox/azure-cosmosdb-identity-aware-mcp-server): FastMCP server with Entra ID for user login and Cosmos DB for user data storage
