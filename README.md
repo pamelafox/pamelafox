@@ -15,15 +15,17 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 
 | Skill | Description |
 | --- | --- |
-| [Recap My Week](https://github.com/pamelafox/recap-my-week) | Summarizes the user's last week of work using GitHub activity, X/Twitter posts, and Microsoft 365 data, then turns the results into highlights, summaries, and stats. |
-| [Comedy Roast](https://github.com/pamelafox/comedy-roast-skill) | Generates a personalized roast based on the user's real weekly activity across GitHub, X/Twitter, and Microsoft 365, including work, code, and timeline jokes. |
-| [Presentation Skills](https://github.com/pamelafox/presentation-skills) | Provides a collection of agent skills for presentation workflows, including converting slides, extracting transcripts, reviewing presentations, outlining slide decks, and generating write-ups. |
+| [Recap My Week](https://github.com/pamelafox/recap-my-week) | Summarizes the user's last week of work using GitHub activity, X/Twitter posts, and Microsoft 365 data. |
+| [Comedy Roast](https://github.com/pamelafox/comedy-roast-skill) | Generates a personalized roast based on the user's real weekly activity across GitHub, X/Twitter, and Microsoft 365. |
+| [Presentation Skills](https://github.com/pamelafox/presentation-skills) | Skills for creating presentations, including converting slides, extracting transcripts, reviewing presentations, outlining slide decks, and generating write-ups. |
 
 
 ## Azure-related samples
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [foundry-hosted-agentframework-demos](https://github.com/Azure-Samples/foundry-hosted-agentframework-demos) | agent-framework | Foundry Agents | ✅ | ✅  
+| [foundry-hosted-langchain-demos](https://github.com/Azure-Samples/foundry-hosted-langchain-demos) | langchain | Foundry Agents | ✅ | ✅  
 | [python-agentframework-demos](https://github.com/Azure-Samples/python-agentframework-demos/) | agent-framework | Azure OpenAI | ✅ | ✅ 
 | [python-foundryagent-demos](https://github.com/pamelafox/python-foundryagent-demos/) | azure-ai-projects | Foundry Agents, AI Search | ✅ | ✅ 
 | [issue-triager-agent](https://github.com/pamelafox/issue-triager-agent) | Langgraph | OpenAI | ✅ | ✅ 
