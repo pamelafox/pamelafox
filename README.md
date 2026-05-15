@@ -10,6 +10,16 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | [Posette (Virtual)](https://posetteconf.com/2026/) | Virtual | Jun 16-18, 2026 |
 | [Microsoft Build (SF)](https://aka.ms/MS_Build_26_DAC26) | San Francisco / Online | Jun 2-3, 2026 |
 
+
+## Agent skills
+
+| Skill | Description |
+| --- | --- |
+| [Recap My Week](https://github.com/pamelafox/recap-my-week) | Summarizes the user's last week of work using GitHub activity, X/Twitter posts, and Microsoft 365 data, then turns the results into highlights, summaries, and stats. |
+| [Comedy Roast](https://github.com/pamelafox/comedy-roast-skill) | Generates a personalized roast based on the user's real weekly activity across GitHub, X/Twitter, and Microsoft 365, including work, code, and timeline jokes. |
+| [Presentation Skills](https://github.com/pamelafox/presentation-skills) | Provides a collection of agent skills for presentation workflows, including converting slides, extracting transcripts, reviewing presentations, outlining slide decks, and generating write-ups. |
+
+
 ## Azure-related samples
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
