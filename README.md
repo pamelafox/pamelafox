@@ -5,7 +5,6 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | Event | Location | Date |
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
-| [SF Python](https://www.meetup.com/sfpython/events/314357605/) | San Francisco, CA | Mon, May 11, 2026 (5:00-8:00 PM PDT) |
 | [PyCon US](https://us.pycon.org/2026/) | Long Beach, CA | May 13-19, 2026 |
 | [Posette (Virtual)](https://posetteconf.com/2026/) | Virtual | Jun 16-18, 2026 |
 | [Microsoft Build (SF)](https://aka.ms/MS_Build_26_DAC26) | San Francisco / Online | Jun 2-3, 2026 |
