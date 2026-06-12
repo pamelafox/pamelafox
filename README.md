@@ -24,6 +24,7 @@ See [agentskills.io](https://agentskills.io/) if you're new to skills.
 
 | Tables        | Python libraries | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? |
 | ------------- |:-------------| :-----| :- | :- |
+| [python-stack-foundry-models](https://github.com/pamelafox/python-stack-foundry-models) | agent-framework,pydantic-ai,langchain | Foundry Models (Claude/OpenAI) | ✅ | ✅  
 | [foundry-hosted-agentframework-demos](https://github.com/Azure-Samples/foundry-hosted-agentframework-demos) | agent-framework | Foundry Agents | ✅ | ✅  
 | [foundry-hosted-langchain-demos](https://github.com/Azure-Samples/foundry-hosted-langchain-demos) | langchain | Foundry Agents | ✅ | ✅  
 | [python-agentframework-demos](https://github.com/Azure-Samples/python-agentframework-demos/) | agent-framework | Azure OpenAI | ✅ | ✅ 
