@@ -5,9 +5,9 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | Event | Location | Date |
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
-| [Microsoft Build (SF)](https://aka.ms/MS_Build_26_DAC26) | San Francisco / Online | Jun 2-3, 2026 |
 | [Posette (Virtual)](https://posetteconf.com/2026/) | Virtual | Jun 16-18, 2026 |
 | [AI Engineer World's Fair SF](https://www.ai.engineer/worldsfair/2026) | San Francisco | June 28-July 2 |
+| [Model Mastery with Cohere](https://luma.com/0n0jo456) | San Francisco | July 21 |
 
 ## Agent skills
 
