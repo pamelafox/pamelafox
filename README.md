@@ -5,7 +5,6 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | Event | Location | Date |
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
-| [Model Mastery with Cohere](https://luma.com/0n0jo456) | San Francisco | July 21 |
 | [Microsoft IQ with Python](https://aka.ms/IQDeepDivePython/series) | Online (YouTube) | July 28-30 |
 | [MCP Live!](https://developer.microsoft.com/en-us/reactor/events/27448/) | Online (YouTube) | September 8 |
 | [MCP Connect](https://globalai.community/e/bay9vh24) | San Francisco | September 14 |
