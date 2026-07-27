@@ -8,6 +8,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | [Microsoft IQ with Python](https://aka.ms/IQDeepDivePython/series) | Online (YouTube) | July 28-30 |
 | [MCP Live!](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/join-us-for-our-mcp-live-%E2%80%94-a-free-livestream-covering-all-things-mcp/4537980) | Online (YouTube) | September 8 |
 | [MCP Connect](https://globalai.community/e/bay9vh24) | San Francisco | September 14 |
+| [ACA Sandboxes Livestream](https://developer.microsoft.com/reactor/events/27394/) | Online (YouTube) | September 30 |
 
 ## Agent skills
 
