@@ -9,6 +9,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | [MCP Connect](https://globalai.community/e/bay9vh24) | San Francisco | September 14 |
 | [Copilot Dev Camp Summit](https://aka.ms/CopilotDevCamp/Summit) | Online (YouTube) | September 30 |
 | [ACA Sandboxes Livestream](https://developer.microsoft.com/reactor/events/27394/) | Online (YouTube) | September 30 |
+| [GitHub Universe](https://githubuniverse.com/) | San Francisco | Oct 28-29 |
 
 ## Agent skills
 
