@@ -6,7 +6,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
 | [MCP Live!](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/join-us-for-our-mcp-live-%E2%80%94-a-free-livestream-covering-all-things-mcp/4537980) | Online (YouTube) | September 9 |
-| [MCP Connect](https://globalai.community/e/bay9vh24) | San Francisco | September 14 |
+| [MCP Community Connect](https://globalai.community/e/bay9vh24) | San Francisco | September 14 |
 | [Copilot Dev Camp Summit](https://aka.ms/CopilotDevCamp/Summit) | Online (YouTube) | September 30 |
 | [ACA Sandboxes Livestream](https://developer.microsoft.com/reactor/events/27394/) | Online (YouTube) | September 30 |
 | [GitHub Universe](https://githubuniverse.com/) | San Francisco | Oct 28-29 |
