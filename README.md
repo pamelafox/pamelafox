@@ -91,6 +91,7 @@ See [agentskills.io](https://agentskills.io/) if you're new to skills.
 
 ## Personal agentic helpers
 
+* [pydanticai-playwright-agent](https://github.com/pamelafox/pydanticai-playwright-agent): A generic PydanticAI+Playwright agent to QA websites, but can be extended for any scenario
 * [personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent): An agent to manage my LinkedIn account, using PydanticAI and Playwright
 * [github-repo-maintainer-agent](https://github.com/pamelafox/github-repo-maintainer-agent): An agent for managing updates to my GitHub repos
 * [office-hours-writeups](https://github.com/pamelafox/office-hours-writeups): Tools to turn office hours recordings into writeups
