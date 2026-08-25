@@ -89,6 +89,7 @@ See [agentskills.io](https://agentskills.io/) if you're new to skills.
 * [py-ai-mcp-tool-schemas](https://github.com/pamelafox/py-ai-mcp-tool-schemas): FastMCP tool schemas: Evaluations of different schemas for different agents (PydanticAI, Copilot SDK)
 * [azure-cosmosdb-identity-aware-mcp-server](https://github.com/pamelafox/azure-cosmosdb-identity-aware-mcp-server): FastMCP server with Entra ID for user login and Cosmos DB for user data storage
 * [mcp-sdk-functions-hosting-python](https://github.com/Azure-Samples/mcp-sdk-functions-hosting-python): FastMCP server that can be deployed to Azure Functions+APIM
+* [github-copilot-mcp-tutorial](https://github.com/pamelafox/github-copilot-mcp-tutorial): 2 hour MCP tutorial focusing on GitHub Copilot
 
 
 ## Personal agentic helpers
