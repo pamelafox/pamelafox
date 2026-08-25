@@ -1,5 +1,16 @@
 I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️ 
 
+## Table of contents
+
+- [Upcoming talks](#upcoming-talks)
+- [Agent skills](#agent-skills)
+- [Azure-related samples](#azure-related-samples)
+- [MCP related samples](#mcp-related-samples)
+- [Personal agentic helpers](#personal-agentic-helpers)
+- [Python templates with devcontainers](#python-templates-with-devcontainers)
+- [Educational tools build with Pyodide (in-browser Python)](#educational-tools-build-with-pyodide-in-browser-python)
+- [Frontend packages](#frontend-packages)
+
 ## Upcoming talks
 
 | Event | Location | Date |
