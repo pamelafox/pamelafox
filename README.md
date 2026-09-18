@@ -8,8 +8,10 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
 | [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress-north-america/) | San Jose | September 23-25 |
+| [AI Show & Tell](https://luma.com/wx7493ut) | SF | Sept 28 |
 | [Copilot Dev Camp Summit](https://aka.ms/CopilotDevCamp/Summit) | Online (YouTube) | September 30 |
 | [ACA Sandboxes Livestream](https://developer.microsoft.com/reactor/events/27394/) | Online (YouTube) | September 30 |
+| [Berkeley CSTA Meetup](https://goldengate.csteachers.org/home) | Berkeley | October 7 |
 | [Anthropic workshop](https://luma.com/p6m4n0g7) | San Francisco | October 8 |
 | [AGNTCon+MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/program/schedule/) | San Jose | October 22-23 |
 | [GitHub Universe](https://githubuniverse.com/) | San Francisco | October 28-29 |
