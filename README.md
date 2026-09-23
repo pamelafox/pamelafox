@@ -16,6 +16,8 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 | [AGNTCon+MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/program/schedule/) | San Jose | October 22-23 |
 | [GitHub Universe](https://githubuniverse.com/) | San Francisco | October 28-29 |
 | [Microsoft Ignite](https://ignite.microsoft.com/en-US/sessions?wt.mc_ID=msignite26_ciarmar_corp_np_eml_email_Email_AllSessionCat_0427&search=pamela&sortBy=relevance) | San Francisco | November 17-20 |
+| [PyLadies Con](https://2026.conference.pyladies.com/) | Online | Dec 5-7 | 
+| [AI Tour](https://aitour.microsoft.com/flow/microsoft/seattle27/citylanding/page/cityhome) | Seattle | Dec 9 |
 
 ## Agent skills
 
