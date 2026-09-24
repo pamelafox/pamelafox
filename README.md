@@ -87,6 +87,7 @@ See [agentskills.io](https://agentskills.io/) if you're new to skills.
 
 ## MCP related samples
 
+* [github-copilot-mcp-skills-workshop](https://github.com/pamelafox/github-copilot-mcp-skills-workshop): 2 hour workshop connecting GitHub Copilot to MCP and skills
 * [pycon2026-mcp-tutorial](https://github.com/pamelafox/pycon2026-mcp-tutorial): A tutorial for connecting agents to MCP servers, then building a FastMCP server with tools, elicitations, apps, and KeyCloak auth.
 * [mcp-for-postgres-db-demo](https://github.com/pamelafox/mcp-for-postgres-db-demo/): FastMCP servers to query a PostgreSQL database, showing different approaches to protecting the database.
 * [python-mcp-demos](https://github.com/Azure-Samples/python-mcp-demos): FastMCP with stdio/HTTP transports, agent integration, and deployment to Azure Container Apps
