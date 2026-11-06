@@ -8,6 +8,7 @@ I'm Pamela Fox, a Cloud Advocate in Python at Microsoft. 🐍 ☁️
 |---|---|---|
 | [Python + AI Weekly Office Hours](https://aka.ms/pythonai/oh/links) | Online (Foundry Discord) | Weekly, Tuesdays @ 11 AM PT |
 | [Microsoft Ignite](https://ignite.microsoft.com/en-US/speakers/177730559163ignite27-1756137289765001yN8u?source=/sessions) | San Francisco | November 17-20 |
+| [FastMCP meetup](https://luma.com/fastmcp-meetup-dec26) | San Francisco | Dec 2 |
 | [PyLadies Con](https://2026.conference.pyladies.com/) | Online | Dec 5-7 | 
 | [Frontier Tour](https://aitour.microsoft.com/flow/microsoft/seattle27/citylanding/page/cityhome) | Seattle | Dec 9 |
 
